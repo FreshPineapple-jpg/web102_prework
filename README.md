@@ -36,6 +36,7 @@ GIF created with LICECap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 Building the app required reviewing the DOM model documentation a few times but overall was a very fun experience.
 
 ## License
